@@ -3,9 +3,10 @@
 
 The labs are done in AWS sagemaker studio. 
 
-----------------------------
+week 1
+-
 
-### week 1
+
 Generative AI use cases, project lifecycle, and model pre-training
 
 ### Learning Objectives
@@ -15,8 +16,9 @@ Generative AI use cases, project lifecycle, and model pre-training
 - Discuss computational challenges during model pre-training and determine how to efficiently reduce memory footprint
 - Define the term scaling law and describe the laws that have been discovered for LLMs related to training dataset size, compute budget, inference requirements, and other factors.
 
--------------------------------------------
-### week 2
+week 2
+-
+
 Fine-tuning and evaluating large language models
 
 ### Learning Objectives
@@ -27,8 +29,9 @@ Fine-tuning and evaluating large language models
 - Explain how fine-tuning with instructions using prompt datasets can increase LLM performance on one or more tasks
 
 
---------------------------------------------
-### week 3
+week 3
+-
+
 Reinforcement learning and LLM-powered applications
 
 ### Learning Objectives
@@ -37,5 +40,4 @@ Reinforcement learning and LLM-powered applications
 - Define chain-of-thought prompting and describe how it can be used to improve LLMs reasoning and planning abilities
 - Discuss the challenges that LLMs face with knowledge cut-offs, and explain how information retrieval and augmentation techniques can overcome these challenges
 
-d
--
+
