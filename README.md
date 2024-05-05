@@ -1,6 +1,5 @@
 # GenAI-with-LLMs
-## Generative Adversarial Learning with Language Models
-
+## Generative AI with Large Language Models
 The labs are done in AWS sagemaker studio. 
 
 ---------------------
