@@ -3,8 +3,9 @@
 
 The labs are done in AWS sagemaker studio. 
 
+
 week 1
--
+----------------------
 
 
 Generative AI use cases, project lifecycle, and model pre-training
@@ -17,7 +18,7 @@ Generative AI use cases, project lifecycle, and model pre-training
 - Define the term scaling law and describe the laws that have been discovered for LLMs related to training dataset size, compute budget, inference requirements, and other factors.
 
 week 2
--
+----------------------
 
 Fine-tuning and evaluating large language models
 
@@ -30,7 +31,7 @@ Fine-tuning and evaluating large language models
 
 
 week 3
--
+---------------------
 
 Reinforcement learning and LLM-powered applications
 
