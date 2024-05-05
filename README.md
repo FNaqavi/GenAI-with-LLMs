@@ -37,4 +37,5 @@ Reinforcement learning and LLM-powered applications
 - Define chain-of-thought prompting and describe how it can be used to improve LLMs reasoning and planning abilities
 - Discuss the challenges that LLMs face with knowledge cut-offs, and explain how information retrieval and augmentation techniques can overcome these challenges
 
--------------------------------------
+d
+-
