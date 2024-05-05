@@ -1,6 +1,6 @@
 # GenAI-with-LLMs
 ## Generative AI with Large Language Models
-The labs are done in AWS sagemaker studio. 
+The labs are done in Jupyter notebook through AWS sagemaker studio. 
 
 ---------------------
 ### week 1
